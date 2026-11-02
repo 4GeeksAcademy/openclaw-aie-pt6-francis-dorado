@@ -1,0 +1,5 @@
+openclaw.json
+*.bak
+.env
+*.sqlite
+id_*
